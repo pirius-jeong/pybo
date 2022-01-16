@@ -7,7 +7,7 @@ DATABASES = {
         'NAME': 'pybo',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
-        'HOST': '192.168.137.101',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
