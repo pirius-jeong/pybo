@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['192.168.137.101']
 INSTALLED_APPS = [
     'common.apps.CommonConfig',
     'pybo.apps.PyboConfig',
+    'studyroom.apps.StudyroomConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
